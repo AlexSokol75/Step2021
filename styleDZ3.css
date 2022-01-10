@@ -1,0 +1,70 @@
+body{
+	padding: 20px;
+}
+.credit{
+	max-width: 70%;
+	min-height: 800px;
+	background: #9fcdcd;
+	margin: 0 auto;
+	border-radius: 10px;
+	background-image: url(../img/moon_flag.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: 129.5% 166%;
+}
+.card{
+	width: 57%;
+	background: #db6423;
+	position: absolute;
+	top: 8%;
+	left: 14%;
+}
+h3{
+	font-family: Arial;
+	font-size: 24px;
+	color: #fff;
+	font-weight: bold;
+	padding: 30px 100px 30px;
+}
+form{
+	
+	padding-top: 20%;
+	padding-left: 40px;
+}
+h4{
+	font-family: Arial;
+	color: #496f72;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.date{
+	display: flex;
+	margin-top: 50px;
+	
+}
+input{
+	background: #a9d2d2;
+	padding: 30px 10px 30px 10px;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid #4d7477;
+	font-size: 22px
+}
+.card-number, .name{
+	width: 58%;
+}
+.date input{
+	width: 11vw;
+	
+}
+.expiry2{
+	margin-left: 44px;
+}
+.date2{
+	margin-left: 44px;
+}
+
+
+
+
+
