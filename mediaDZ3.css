@@ -1,0 +1,23 @@
+@media (min-width: 600px) and (max-width: 900px){
+.row{
+	display: block;
+
+}	
+.my, .by{
+	     width: 100%;
+
+}
+}
+@media (max-width: 600px){
+.row{
+	display: block;
+
+}	
+.my, .by{
+	     width: 100%;
+
+}
+#a1, #a2, #a4, #a5{
+
+	width: 86%;
+}
